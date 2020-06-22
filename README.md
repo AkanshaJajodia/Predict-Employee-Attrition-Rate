@@ -9,10 +9,10 @@ Employee attrition is a major cost to an organization and predicting such attrit
 of the Human Resources department in many organizations. In this problem, your task is to predict the attrition rate of 
 employees of an organization. 
 
-Features
+**Features**
 
-Employee_ID	- Unique ID of each employee
-Age	- Age of each employee
+* Employee_ID	- Unique ID of each employee
+* Age	- Age of each employee
 Unit -	Department under which the employee work
 Education	- Rating of Qualification of an employee (1-5)
 Gender	- Male-0 or Female-1
